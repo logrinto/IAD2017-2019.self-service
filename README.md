@@ -6,7 +6,7 @@ Die Angestellten sind für Zubreitung der Speisen und Service am Kunden da, jedo
 Die Speisen decken die italienische Küche ab und nebst einer regulären warmen Küche gibt es zwischen 11 und 23 Uhr auch frische Pizzas. Das Restaurant hat 24 Stunden geöffnet und bietet platz für 72 Gäste. WiFi ist im Raum frei verfügbar.
 
 ## Termine & Abgabe
-Am 13. September 2019 um 11:15 Uhr muss ein Prototyp kurz präsentiert werden (5 min). Um 14:45 Uhr muss eine Präsentation der Interaktion als Beamer-Präsentation gezeigt werden (15 min) und über [GitHub-Issues](https://github.com/logrinto/IAD2017-2019.self-service/issues) abgegeben werden. Bitte Team-Mitglieder·innen vermerken! Die Gestaltung und interaktion ist auf der Beamer-Präsentation ersichtlich.  
+Am 13. September 2019 um 11:15 Uhr muss ein Prototyp kurz präsentiert werden (5 min). Um 14:45 Uhr muss eine Präsentation der Interaktion als Beamer-Präsentation gezeigt werden (10 min) und über [GitHub-Issues](https://github.com/logrinto/IAD2017-2019.self-service/issues) abgegeben werden. Bitte Team-Mitglieder·innen vermerken! Die Gestaltung und interaktion ist auf der Beamer-Präsentation ersichtlich.  
 
 ## Technische Voraussetzung
 Technologie und Installation ist vorzuschlagen.
